@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+<head>
+    <title>sk87.net</title>
+    <meta name="description" content="sk87.net Homepage">
+    <meta name="keywords" content="sk.87.net Homepage Blog">
+    <style>
+        html {
+            max-width: 70ch;
+            /* larger spacing on larger screens, very small spacing on tiny screens */
+            padding: calc(1vmin + .5rem);
+            /* shorthand for margin-left/margin-right */
+            margin-inline: auto;
+            /* fluid sizing: https://frontaid.io/blog/fluid-typography-2d-css-locks-clamp/ */
+            font-size: clamp(1em, 0.909em + 0.45vmin, 1.25em);
+            /* use system font stack: https://developer.mozilla.org/en-US/docs/Web/CSS/font-family */
+            font-family: system-ui
+        }
+
+        /* increase line-height for everything except headings */
+        body :not(:is(h1,h2,h3,h4,h5,h6)) {
+            line-height: 1.75;
+        }
+    </style>
+</head>
+<body>
+<h1>Sebs Homepage</h1>
+<div>Contact via email to hi@site-domain</div>
+<ul>
+    <li><a href="https://blog.sk87.net">Blog</a></li>
+    <li><a href="https://www.github.com/skhro87">GitHub</a></li>
+</ul>
+</body>
+</html>
