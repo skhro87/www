@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/skhro87
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.sk87.net
+  * I am skhro87 (https://keybase.io/skhro87) on keybase.
+  * I have a public key with fingerprint E7E3 7725 2746 C40F E5DF  2A31 C1FD BCEE C237 519D
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101d555b4057d1d048179e278c909431ab02c45c142d7a18d4ed1389c56fc8c26fb0a",
+      "fingerprint": "e7e377252746c40fe5df2a31c1fdbceec237519d",
+      "host": "keybase.io",
+      "key_id": "c1fdbceec237519d",
+      "kid": "0101d555b4057d1d048179e278c909431ab02c45c142d7a18d4ed1389c56fc8c26fb0a",
+      "uid": "335b37fd2ad4cef397207094a8fe4a19",
+      "username": "skhro87"
+    },
+    "service": {
+      "hostname": "www.sk87.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1666166618,
+  "expire_in": 157680000,
+  "prev": "1d9748b023f353277bb4364a07ce0435d512b55c91d0f63f960f2127296a260f",
+  "seqno": 3,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMImAnicrVJfSBRBHD7NTI0DM7CoHmQLhDxsZ3dnZ/cqgsr+0INBD1pY1+7M7N16
+unve7mmm4kMFZX/III0IKqLyL2qU+iKUpUZhUS8SafSgkZRY9Bd6qNnD3npsYJiZ
+33zfN9/3Yx75F/myUj6iouylz651pDx90JLw4eKeA3WcbpNaLljHRWlyoRWEOm4o
+ahIuyPGABwRCqEs8RAQQXlIAUqmAFKzyqiQCTecFLEEMJIEgDShEogSIioqhbGAF
+C7Kh8xoX4AzTCtN4LG5aLpOliIoICVBAkowl3qCQGIImAgwMomNKsSAiCFTCiBHb
+8RjMnK45tNC0WY0dQkl7/8D/Z9+JpJwoQl1EBhE0ImFqiCoSeMR0NMWgkgZUD+jQ
+uKVVUoZ2opG4rSCuIcCxYrWJqddXL8gCoKamptCJKqjQoi6jxuK2a2O7gt1EXDfm
+BD2mWxtLQqkeWhAJ6aZFWBsZo5rGHdO2uCBgSOyaniqQZTk5lQBHj8TMOA2ZHgIi
+WeHZ8N6h1UwSEBVJCssvGiIUBYR0XRJlSeMRprwkQgKBoEOIVdY2QxYNVeYNAQhI
+UGVNYHvOi1Vl2VxQZDa1sJfYDFuam4hTrmH4flmaLyXLl7441ftevqzM7L+fbmPO
+kt97uv0ztyf2jvuP7zOGi5t+pvITwSsZ5V319RE86N++ora/anZ0srPUNtr8ua92
+2vVfKrvef6MHd3UMtW/YcfRQ68Py5eONJ041zrX1Nq/pP5+bt2tkqGh65OXpnHt4
+9ba1nZ/e3Wl67M7mtq0/V9y3yUV5aWeKPo+9vlM8aGRuKTg2smyo5VBf+NYESett
++nKhrCnQumTs+vhA4tKbHQUXnqwPBUamVv56nhEqfaxOt5c0uydz8hIt+tn8F88P
+l6yby+/hV10a3F+knLh8ceZW/sCxUcjvnuxuHb05uvXBdPp8eL6npHnm7I23Pxqn
+9M2qheX8ma/Tse9dc9xVeLfgw6k/t3FBaA==
+=eLVg
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/skhro87
+
+==================================================================
